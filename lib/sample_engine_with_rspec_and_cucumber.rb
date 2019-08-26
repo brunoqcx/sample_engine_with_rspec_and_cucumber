@@ -1,0 +1,4 @@
+require "sample_engine_with_rspec_and_cucumber/engine"
+
+module SampleEngineWithRspecAndCucumber
+end
